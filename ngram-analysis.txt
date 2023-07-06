@@ -1,0 +1,47 @@
+COMMITS
+
+['by', 'chatgpt']
+['using', 'chatgpt']
+['with', 'chatgpt']
+['help', 'of', 'chatgpt']
+['chatgpt', 'generated']
+['thanks', 'to', 'chatgpt'
+['help', 'from', 'chatgpt']
+['chatgpt', 'implementations']
+['chatgpt', 'suggestions']
+['chatgpt', 'responses']
+['chatgpt', 'response']
+['chatgpt', 'explain']
+['chatgpt', 'fix']
+['chatgpt', 'codereview']
+
+
+PR
+['based', 'on', 'chatgpt']
+['used', 'chatgpt']
+['use','chatgpt']
+['chatgpt', 'to']
+['asked', 'chatgpt']
+['chatgpt', 'response']
+['chatgpt', 'to', 'generate']
+['ask', 'chatgpt']
+['chatgpt', 'code']
+['chatgpt', 'automated']
+['chatgpt', 'which', 'automates']
+['chatgpt', 'wrote']
+['chatgpt', 'for', 'helping']
+['chatgpt', 'suggestions']
+['chatgpt', 'said']
+['chatgpt', 'write']
+
+
+ISSUES
+['chatgpt', 'for']
+['chatgpt', 'fixed']
+['asking', 'chatgpt']
+['chatgpt', 'has']
+['prompting', 'chatgpt']
+['prompt', 'chatgpt']
+
+We analyzed n-grams starting from 0.02%
+

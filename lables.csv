@@ -1,0 +1,58 @@
+label,commit,issue,pr,instances
+development environment,9,7,14,"617, 1159, 1411, 1353, 1354, 1356, 1365, 1434, 1439, 1481, 472, 473, 548, 1185, 1426, 249, 361, 372, 491, 1269, 1487, 1492, 214, 515, 176, 639, 696, 998, 1138, 1412"
+development environment -> continuous integration,8,1,12,"1353, 1354, 1356, 1365, 1434, 1439, 1481, 472, 473, 548, 1185, 1426, 249, 361, 372, 491, 1269, 1487, 1492, 214, 515"
+development environment -> continuous integration -> automating code review,0,0,7,"1353, 1354, 1356, 1365, 1434, 1439, 1481"
+development environment -> continuous integration -> generating/updating docker container,2,1,2,"472, 473, 548, 1185, 1426"
+development environment -> continuous integration -> implementing/fixing jobs/actions,6,0,3,"249, 361, 372, 491, 1269, 1487, 1492, 214, 515"
+documentation,64,11,35,"214, 1463, 895, 12, 24, 98, 151, 153, 189, 220, 233, 257, 258, 259, 260, 268, 269, 271, 358, 368, 397, 440, 443, 519, 539, 925, 1178, 1217, 1242, 1332, 1444, 1438, 1323, 175, 1206, 1340, 291, 292, 3, 215, 398, 418, 422, 1218, 1237, 1276, 22, 643, 778, 845, 1005, 150, 154, 155, 159, 180, 192, 193, 196, 197, 199, 219, 221, 277, 308, 312, 315, 331, 338, 374, 382, 411, 412, 429, 436, 444, 453, 459, 460, 480, 557, 812, 1061, 1184, 1187, 1201, 1209, 1232, 1233, 1314, 1341, 1358, 1397, 1400, 1408, 1437, 1440, 1441, 1442, 1449, 1451, 1475, 1491, 916, 178, 179, 191, 275, 1362, 1417"
+documentation -> improving writing,33,4,21,"214, 1276, 150, 154, 155, 159, 180, 192, 193, 196, 197, 199, 219, 221, 277, 308, 312, 315, 331, 338, 374, 382, 411, 412, 429, 436, 444, 453, 459, 460, 480, 557, 812, 1061, 1184, 1187, 1201, 1209, 1232, 1233, 1314, 1341, 1358, 1397, 1400, 1408, 1437, 1440, 1441, 1442, 1449, 1451, 1475, 1491, 916, 178, 179, 191"
+learning,4,48,5,"515, 916, 178, 179, 592, 605, 636, 651, 680, 686, 729, 733, 734, 735, 744, 794, 796, 800, 816, 837, 889, 904, 924, 932, 947, 950, 981, 988, 1006, 1011, 1016, 1021, 1051, 1053, 1055, 1070, 1084, 1093, 1094, 1102, 1136, 1147, 1165, 1212, 1393, 1406, 1469, 377, 1039, 653, 875, 884, 940, 1037, 1103, 1210, 1151"
+learning -> how to use a library/framework/tool,4,47,4,"515, 916, 178, 179, 592, 605, 636, 651, 680, 686, 729, 733, 734, 735, 744, 794, 796, 800, 816, 837, 889, 904, 924, 932, 947, 950, 981, 988, 1006, 1011, 1016, 1021, 1051, 1053, 1055, 1070, 1084, 1093, 1094, 1102, 1136, 1147, 1165, 1212, 1393, 1406, 1469, 377, 1039, 653, 875, 884, 940, 1037, 1103"
+development environment -> setting/implementing a new configuration file,1,4,1,"176, 639, 696, 998, 1138, 1412"
+documentation -> generate terms of service,0,0,1,1463
+documentation -> generating api specification,0,1,0,895
+documentation -> generating code comments,21,2,7,"12, 24, 98, 151, 153, 189, 220, 233, 257, 258, 259, 260, 268, 269, 271, 358, 368, 397, 440, 443, 519, 539, 925, 1178, 1217, 1242, 1332, 1444, 1438, 1323"
+software quality,44,37,56,"1438, 1323, 1340, 191, 757, 758, 1210, 1151, 16, 173, 360, 574, 631, 913, 1189, 1211, 1236, 1279, 1280, 1352, 1355, 1359, 1367, 1370, 1372, 1373, 1374, 240, 357, 1255, 1385, 1399, 1312, 1318, 1322, 608, 387, 952, 1403, 1468, 1470, 424, 8, 21, 356, 362, 393, 625, 628, 658, 723, 813, 921, 939, 962, 999, 1019, 1027, 1141, 1180, 1186, 1221, 1335, 1396, 1452, 1459, 1485, 158, 392, 850, 517, 1219, 1171, 1254, 848, 660, 666, 763, 830, 1121, 1156, 1169, 1453, 949, 1158, 1164, 1, 6, 7, 17, 23, 157, 174, 204, 205, 206, 239, 266, 298, 348, 366, 386, 399, 434, 510, 511, 588, 632, 650, 1100, 1177, 1192, 1235, 1240, 1282, 1329, 1337, 1392, 1428, 1467, 1500, 1395, 161, 171, 267, 305, 311, 313, 437, 454, 1205, 1208, 1243, 1334, 1366, 1433, 1448"
+software quality -> refactoring,23,5,13,"1438, 1151, 1399, 424, 158, 517, 1, 6, 7, 17, 23, 157, 174, 204, 205, 206, 239, 266, 298, 348, 366, 386, 399, 434, 510, 511, 588, 632, 650, 1100, 1177, 1192, 1235, 1240, 1282, 1329, 1337, 1392, 1428, 1467, 1500"
+software quality -> testing,8,0,10,"1323, 1340, 1395, 161, 171, 267, 305, 311, 313, 437, 454, 1205, 1208, 1243, 1334, 1366, 1433, 1448"
+software quality -> testing -> generating tests,8,0,9,"1323, 1340, 161, 171, 267, 305, 311, 313, 437, 454, 1205, 1208, 1243, 1334, 1366, 1433, 1448"
+documentation -> generating commit message,3,0,2,"175, 1206, 1340, 291, 292"
+feature implementation/enhancement,43,29,38,"1340, 211, 359, 379, 394, 420, 483, 616, 1052, 1423, 1432, 244, 1275, 222, 334, 347, 371, 396, 402, 474, 507, 508, 1026, 1245, 1260, 1375, 1415, 185, 186, 187, 281, 419, 506, 1294, 1350, 1387, 1419, 1429, 1431, 1267, 958, 675, 899, 213, 327, 354, 395, 414, 433, 438, 441, 466, 490, 499, 505, 558, 914, 996, 1038, 1111, 1140, 1163, 1167, 1207, 1239, 1247, 1328, 1331, 1378, 1422, 1450, 1455, 1458, 1465, 1484, 1489, 254, 482, 430, 518, 662, 1079, 1097, 1194, 1472, 1474, 1495, 757, 758, 182, 218, 314, 339, 343, 752, 815, 911, 956, 1048, 1087, 1092, 1139, 1148, 1200, 1253, 1257, 1263, 1418, 1486, 880"
+feature implementation/enhancement -> implementing a new feature,12,9,14,"1340, 958, 213, 327, 354, 395, 414, 433, 438, 441, 466, 490, 499, 505, 558, 914, 996, 1038, 1111, 1140, 1163, 1167, 1207, 1239, 1247, 1328, 1331, 1378, 1422, 1450, 1455, 1458, 1465, 1484, 1489"
+process,3,12,17,"1340, 291, 292, 862, 1297, 1307, 1308, 288, 623, 676, 716, 820, 920, 922, 1035, 1204, 1295, 1304, 1306, 1310, 1409, 1436, 1447, 1497, 626, 907, 1081, 1496, 577, 1312, 1318, 1322"
+process -> automating commit/issue/PR creation,3,11,17,"1340, 291, 292, 862, 1297, 1307, 1308, 288, 623, 676, 716, 820, 920, 922, 1035, 1204, 1295, 1304, 1306, 1310, 1409, 1436, 1447, 1497, 626, 907, 1081, 1496, 1312, 1318, 1322"
+process -> automating commit/issue/PR creation -> creating commit/issue/PR description,3,10,17,"1340, 291, 292, 1297, 1307, 1308, 288, 623, 676, 716, 820, 920, 922, 1035, 1204, 1295, 1304, 1306, 1310, 1409, 1436, 1447, 1497, 626, 907, 1081, 1496, 1312, 1318, 1322"
+documentation -> generating readme,5,0,3,"3, 215, 398, 418, 422, 1218, 1237, 1276"
+documentation -> generating user guide,1,4,0,"22, 643, 778, 845, 1005"
+learning -> how to use a library/framework/tool -> generating code examples,2,6,0,"178, 179, 653, 875, 884, 940, 1037, 1103"
+software quality -> fixing,10,29,16,"191, 757, 758, 1210, 1399, 608, 387, 952, 1403, 1468, 1470, 8, 21, 356, 362, 393, 625, 628, 658, 723, 813, 921, 939, 962, 999, 1019, 1027, 1141, 1180, 1186, 1221, 1335, 1396, 1452, 1459, 1485, 158, 392, 850, 517, 1219, 1171, 1254, 848, 660, 666, 763, 830, 1121, 1156, 1169, 1453, 949, 1158, 1164"
+software quality -> fixing -> functional bugs,7,15,9,"191, 757, 758, 1399, 608, 8, 21, 356, 362, 393, 625, 628, 658, 723, 813, 921, 939, 962, 999, 1019, 1027, 1141, 1180, 1186, 1221, 1335, 1396, 1452, 1459, 1485, 158"
+documentation -> internationalization support,1,0,2,"275, 1362, 1417"
+feature implementation/enhancement -> feature enhancement,22,4,14,"211, 359, 379, 394, 420, 483, 616, 1052, 1423, 1432, 244, 1275, 222, 334, 347, 371, 396, 402, 474, 507, 508, 1026, 1245, 1260, 1375, 1415, 185, 186, 187, 281, 419, 506, 1294, 1350, 1387, 1419, 1429, 1431, 1267, 958"
+feature implementation/enhancement -> feature enhancement -> upgrade to latest version of a library,1,0,1,"244, 1275"
+feature implementation/enhancement -> feature enhancement -> user experience,15,1,11,"222, 334, 347, 371, 396, 402, 474, 507, 508, 1026, 1245, 1260, 1375, 1415, 185, 186, 187, 281, 419, 506, 1294, 1350, 1387, 1419, 1429, 1431, 1267"
+feature implementation/enhancement -> feature enhancement -> user experience -> gui-related improvements,9,1,5,"222, 334, 347, 371, 396, 402, 474, 507, 508, 1026, 1245, 1260, 1375, 1415, 1267"
+feature implementation/enhancement -> feature enhancement -> user experience -> internationalization support,6,0,6,"185, 186, 187, 281, 419, 506, 1294, 1350, 1387, 1419, 1429, 1431"
+feature implementation/enhancement -> finding an api for a given task,0,2,0,"675, 899"
+feature implementation/enhancement -> prototyping,7,10,6,"254, 482, 182, 218, 314, 339, 343, 752, 815, 911, 956, 1048, 1087, 1092, 1139, 1148, 1200, 1253, 1257, 1263, 1418, 1486, 880"
+feature implementation/enhancement -> prototyping -> implementing proof of concept,7,9,6,"254, 482, 182, 218, 314, 339, 343, 752, 815, 911, 956, 1048, 1087, 1092, 1139, 1148, 1200, 1253, 1257, 1263, 1418, 1486"
+feature implementation/enhancement -> migrating/reusing via programming language translation,2,5,4,"430, 518, 662, 1079, 1097, 1194, 1472, 1474, 1495, 757, 758"
+feature implementation/enhancement -> prototyping -> using chatgpt in tdd,0,1,0,880
+generating/manipulating data,5,3,3,"198, 349, 367, 495, 731, 886, 1222, 1271, 1391, 4, 1128"
+generating/manipulating data -> spell checking,0,1,0,1128
+learning -> how to use a library/framework/tool -> database querying,1,1,0,"377, 1039"
+learning -> program comprehension,0,1,1,"1210, 1151"
+learning -> program comprehension -> getting familiar with the codebase,0,0,1,1210
+software quality -> fixing -> performance-related,3,3,6,"1210, 387, 952, 1403, 1468, 1470, 392, 850, 517, 1219, 1171, 1254"
+process -> automating commit/issue/PR creation -> creating commit/issue/PR description -> confirming observed bug,0,1,0,626
+process -> automating commit/issue/PR creation -> creating commit/issue/PR description -> motivating the need for a proposed change,0,2,1,"907, 1081, 1496"
+process -> release planning,0,1,0,577
+process -> release planning -> suggesting how to evolve a project,0,1,0,577
+software quality -> code review,7,5,22,"16, 173, 360, 574, 631, 913, 1189, 1211, 1236, 1279, 1280, 1352, 1355, 1359, 1367, 1370, 1372, 1373, 1374, 240, 357, 1255, 1385, 1399, 1312, 1318, 1322, 608, 387, 952, 1403, 1468, 1470, 424"
+software quality -> code review -> spotting bugs,2,0,3,"240, 357, 1255, 1385, 1399"
+software quality -> fixing -> performance-related -> concurrency,1,0,0,517
+software quality -> fixing -> performance-related -> connectivity/speed,0,0,1,1219
+software quality -> fixing -> performance-related -> memory usage,0,1,1,"1171, 1254"
+software quality -> fixing -> supporting debugging,0,11,1,"848, 660, 666, 763, 830, 1121, 1156, 1169, 1453, 949, 1158, 1164"
+software quality -> fixing -> supporting debugging -> writing code to reproduce a bug,0,3,0,"949, 1158, 1164"
+software quality -> testing -> fixing flaky tests,0,0,1,1395
