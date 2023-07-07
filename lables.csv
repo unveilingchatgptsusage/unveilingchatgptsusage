@@ -1,9 +1,9 @@
 label,commit,issue,pr,instances
 development environment,9,7,14,"176, 214, 249, 361, 372, 472, 473, 491, 515, 548, 617, 639, 696, 998, 1138, 1159, 1185, 1269, 1353, 1354, 1356, 1365, 1411, 1412, 1426, 1434, 1439, 1481, 1487, 1492"
 development environment -> continuous integration,8,1,12,"214, 249, 361, 372, 472, 473, 491, 515, 548, 1185, 1269, 1353, 1354, 1356, 1365, 1426, 1434, 1439, 1481, 1487, 1492"
-development environment -> continuous integration -> automating code review,0,0,7,"1353, 1354, 1356, 1365, 1434, 1439, 1481"
 development environment -> continuous integration -> generating/updating docker container,2,1,2,"472, 473, 548, 1185, 1426"
 development environment -> continuous integration -> implementing/fixing jobs/actions,6,0,3,"214, 249, 361, 372, 491, 515, 1269, 1487, 1492"
+development environment -> continuous integration -> integrating ChatGPT reviewing in CI,0,0,7,"1353, 1354, 1356, 1365, 1434, 1439, 1481"
 development environment -> setting/implementing a new configuration file,1,4,1,"176, 639, 696, 998, 1138, 1412"
 documentation,61,11,33,"3, 12, 22, 24, 98, 150, 151, 153, 154, 155, 159, 178, 179, 180, 189, 191, 192, 193, 196, 197, 199, 214, 215, 219, 220, 221, 233, 257, 258, 259, 260, 268, 269, 271, 275, 277, 308, 312, 315, 331, 338, 358, 368, 374, 382, 397, 398, 411, 412, 418, 422, 429, 436, 440, 443, 444, 453, 459, 460, 480, 519, 539, 557, 643, 778, 812, 845, 895, 916, 925, 1005, 1061, 1178, 1184, 1187, 1201, 1209, 1217, 1218, 1232, 1233, 1237, 1242, 1276, 1314, 1323, 1332, 1341, 1358, 1362, 1397, 1400, 1408, 1417, 1437, 1438, 1440, 1441, 1442, 1444, 1449, 1451, 1463, 1475, 1491"
 documentation -> generate terms of service,0,0,1,1463

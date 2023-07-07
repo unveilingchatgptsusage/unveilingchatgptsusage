@@ -382,14 +382,14 @@ id,category,label,link
 1341,PULL-REQUEST,documentation -> improving writing,https://github.com/udibo/react_app/pull/61
 1350,PULL-REQUEST,feature implementation/enhancement -> feature enhancement -> user experience -> internationalization support,https://github.com/jesseduffield/lazydocker/pull/441
 1352,PULL-REQUEST,software quality -> code review,https://github.com/nimblehq/android-templates/pull/446
-1353,PULL-REQUEST,development environment -> continuous integration -> automating code review,https://github.com/nimblehq/android-templates/pull/447
-1354,PULL-REQUEST,development environment -> continuous integration -> automating code review,https://github.com/iotexproject/iotex-core/pull/3824
+1353,PULL-REQUEST,development environment -> continuous integration -> integrating ChatGPT reviewing in CI,https://github.com/nimblehq/android-templates/pull/447
+1354,PULL-REQUEST,development environment -> continuous integration -> integrating ChatGPT reviewing in CI,https://github.com/iotexproject/iotex-core/pull/3824
 1355,PULL-REQUEST,software quality -> code review,https://github.com/macacajs/macaca-datahub/pull/243
-1356,PULL-REQUEST,development environment -> continuous integration -> automating code review,https://github.com/ant-design/ant-design-mini/pull/658
+1356,PULL-REQUEST,development environment -> continuous integration -> integrating ChatGPT reviewing in CI,https://github.com/ant-design/ant-design-mini/pull/658
 1358,PULL-REQUEST,documentation -> improving writing,https://github.com/agbrs/agb/pull/398
 1359,PULL-REQUEST,software quality -> code review,https://github.com/alibaba/lowcode-engine/pull/1784
 1362,PULL-REQUEST,documentation -> internationalization support,https://github.com/openai/chatgpt-retrieval-plugin/pull/30
-1365,PULL-REQUEST,development environment -> continuous integration -> automating code review,https://github.com/iotexproject/iotex-core/pull/3827
+1365,PULL-REQUEST,development environment -> continuous integration -> integrating ChatGPT reviewing in CI,https://github.com/iotexproject/iotex-core/pull/3827
 1366,PULL-REQUEST,software quality -> testing -> generating tests,https://github.com/autowarefoundation/autoware.universe/pull/3170
 1367,PULL-REQUEST,software quality -> code review,https://github.com/iotexproject/iotex-core/pull/3828
 1370,PULL-REQUEST,software quality -> code review,https://github.com/iotexproject/iotex-core/pull/3831
@@ -426,11 +426,11 @@ id,category,label,link
 1431,PULL-REQUEST,feature implementation/enhancement -> feature enhancement -> user experience -> internationalization support,https://github.com/davideshay/groceries/pull/8
 1432,PULL-REQUEST,feature implementation/enhancement -> feature enhancement,https://github.com/greenshot/greenshot/pull/484
 1433,PULL-REQUEST,software quality -> testing -> generating tests,https://github.com/shilomagen/passport-extension/pull/16
-1434,PULL-REQUEST,development environment -> continuous integration -> automating code review,https://github.com/ravilushqa/gpt-pullrequest-updater/pull/1
+1434,PULL-REQUEST,development environment -> continuous integration -> integrating ChatGPT reviewing in CI,https://github.com/ravilushqa/gpt-pullrequest-updater/pull/1
 1436,PULL-REQUEST,process -> automating commit/issue/PR creation -> creating commit/issue/PR description,https://github.com/appsmithorg/appsmith/pull/22627
 1437,PULL-REQUEST,documentation -> improving writing,https://github.com/supercollider/supercollider/pull/6013
 1438,PULL-REQUEST,"documentation -> generating code comments,software quality -> refactoring",https://github.com/plotly/react-cytoscapejs/pull/119
-1439,PULL-REQUEST,development environment -> continuous integration -> automating code review,https://github.com/ravilushqa/gpt-pullrequest-updater/pull/2
+1439,PULL-REQUEST,development environment -> continuous integration -> integrating ChatGPT reviewing in CI,https://github.com/ravilushqa/gpt-pullrequest-updater/pull/2
 1440,PULL-REQUEST,documentation -> improving writing,https://github.com/ringsaturn/tzf/pull/116
 1441,PULL-REQUEST,documentation -> improving writing,https://github.com/supercollider/supercollider/pull/6014
 1442,PULL-REQUEST,documentation -> improving writing,https://github.com/supercollider/supercollider/pull/6015
@@ -454,7 +454,7 @@ id,category,label,link
 1472,PULL-REQUEST,feature implementation/enhancement -> migrating/reusing via programming language translation,https://github.com/apache/druid/pull/14238
 1474,PULL-REQUEST,feature implementation/enhancement -> migrating/reusing via programming language translation,https://github.com/woocommerce/woocommerce/pull/38233
 1475,PULL-REQUEST,documentation -> improving writing,https://github.com/external-secrets/external-secrets/pull/2308
-1481,PULL-REQUEST,development environment -> continuous integration -> automating code review,https://github.com/hubtype/botonic/pull/2491
+1481,PULL-REQUEST,development environment -> continuous integration -> integrating ChatGPT reviewing in CI,https://github.com/hubtype/botonic/pull/2491
 1484,PULL-REQUEST,feature implementation/enhancement -> implementing a new feature,https://github.com/debanjandhar12/logseq-anki-sync/pull/190
 1485,PULL-REQUEST,software quality -> fixing -> functional bugs,https://github.com/jnmartin84/64doom/pull/33
 1486,PULL-REQUEST,feature implementation/enhancement -> prototyping -> implementing proof of concept,https://github.com/fufexan/nix-gaming/pull/73
