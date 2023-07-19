@@ -8,7 +8,7 @@ This is the replication package of the work _"Unveiling ChatGPT’s Usage in Ope
 - `labels.csv`: contains the labels that make up the categorization. Each label comes with the number of instances (commit/issue/PR) tagged with it and their ids. Note that if an instance is tagged with the label _"documentation -> improving writing"_ the instance will appear in both the father label _"documentation"_ and the child label _"documentation -> improving writing"_.
 - `ngram_analysis.txt`: contains the list of n-grams used to select the instances to analyze from the initial dataset.
 - `cohen_k.r`: is the R script used to calculate the Cohen's kappa coefficient.
-- `categorizatio.png`: is the representation of the categorization built on top of the manual analysis (see it also below). 
+- `taxonomy.png`: is the representation of the categorization built on top of the manual analysis (see it also below). 
 
 
-![alt text](https://github.com/unveilingchatgptsusage/unveilingchatgptsusage/blob/main/categorization.png)
+![alt text](https://github.com/unveilingchatgptsusage/unveilingchatgptsusage/blob/main/taxonomy.png)
